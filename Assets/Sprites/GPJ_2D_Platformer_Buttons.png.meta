@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 83605707587282e428b7bc8ce33a22ee
+timeCreated: 1475522226
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: touchLeftArrow
+    21300002: GPJ_2D_Platformer_Buttons_1
+    21300004: GPJ_2D_Platformer_Buttons_2
+    21300006: GPJ_2D_Platformer_Buttons_3
+    21300008: GPJ_2D_Platformer_Buttons_4
+    21300010: GPJ_2D_Platformer_Buttons_5
+    21300012: GPJ_2D_Platformer_Buttons_6
+    21300014: GPJ_2D_Platformer_Buttons_7
+    21300016: GPJ_2D_Platformer_Buttons_8
+    21300018: GPJ_2D_Platformer_Buttons_9
+    21300020: GPJ_2D_Platformer_Buttons_10
+    21300022: touchRightArrow
+    21300024: touchJumpButton
+    21300026: touchSword
+    21300028: touchStar
+    21300030: touch_pause
+    21300032: touch_up
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 128
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: touchLeftArrow
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: touchRightArrow
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: touchJumpButton
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 25
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: touchSword
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: touchStar
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: touch_pause
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 25
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: touch_up
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 26
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
